@@ -2,7 +2,7 @@
 
 Mist.io newsletter template built with:
 
-- [ink](http://foundation.zurb.com/emails.html)
+- [Foundation for Emails](http://foundation.zurb.com/emails.html)
 - [Grunt](http://gruntjs.com/)
 
 If you want to export the html file with inline css you have to install npm dependencies:
