@@ -16,3 +16,5 @@ From now on every time you make some changes simply run:
 ```bash
 grunt
 ```
+
+A file named `inlined.html` is created. This is the only file you need in mailchimp.
