@@ -1,14 +1,16 @@
 .body, body {
     background-color: #f2f2f2;
+    line-height: 1.6em;
 }
 p, a {
-    font-family: Arial;
+    font-weight: 300;
     font-size: 16px;
     line-height: 150%;
     color: #444444;
 }
 a {
     text-decoration: underline;
+    color: #0099cc;
 }
 a:hover, a:visited {
     color: #444444 !important;
@@ -21,18 +23,18 @@ hr {
 }
 h1 {
     color: #444444;
-    font-size: 22px;
+    font-size: 26px;
     line-height: 32px;
-    font-weight: bold;
+    font-weight: 300;
 }
 h2 {
     color: #444444;
-    font-size: 20px;
+    font-size: 22px;
     line-height: 30px;
-    font-weight: bold;
+    font-weight: 300;
 }
 .btn {
-    background-color: #444444;
+    background-color: #0099cc;
     color: #FFFFFF !important;
     text-decoration: none;
     border-radius: 2px;
@@ -40,6 +42,7 @@ h2 {
     padding: 12px 30px;
     display: inline-block;
     margin: 5px 0 10px;
+    font-weight: 300;
 }
 .btn:hover, .btn:visited {
     color: #FFFFFF !important;
@@ -47,7 +50,7 @@ h2 {
 .template-label {
     color: #444444;
     font-size: 14px;
-    font-style: italic;
+    font-weight: 300;
 }
 .callout .wrapper {
     padding-bottom: 20px;
